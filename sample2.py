@@ -1,0 +1,1 @@
+message = "sample2.pyを追記"
