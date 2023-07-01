@@ -1,2 +1,4 @@
 A. masterブランチで追記しました
 B. developブランチで追記しました．
+C. feature/pythonブランチで追記しました１
+D. feature/pythonブランチで追記しました２
